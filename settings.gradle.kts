@@ -1,4 +1,4 @@
 rootProject.Name = "Prokting"
 
 include(":core")
-include(":")
+include(":common")
