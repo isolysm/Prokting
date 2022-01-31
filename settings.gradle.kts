@@ -1,3 +1,4 @@
-rootProject.name = "Prokting"
+rootProject.Name = "Prokting"
 
-include (:core)
+include(":core")
+include(":")
